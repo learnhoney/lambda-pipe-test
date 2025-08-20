@@ -1,0 +1,15 @@
+{
+  "name": "devtron-lambda-demo",
+  "version": "1.0.0",
+  "description": "A sample Lambda function deployed via Devtron.",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^1.5.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

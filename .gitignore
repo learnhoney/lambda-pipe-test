@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+
+# SAM build artifacts
+.aws-sam/
+
+# Test reports
+coverage/
